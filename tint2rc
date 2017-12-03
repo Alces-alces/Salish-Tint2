@@ -222,7 +222,7 @@ separator_padding = 1 0
 #-------------------------------------
 # Button 1
 button = new
-button_icon = /home/moose/Menu.png
+button_icon = ~/Menu.png
 button_text = 
 button_lclick_command = rofi
 button_rclick_command = 
